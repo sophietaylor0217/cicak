@@ -1,0 +1,67 @@
+.img-box {
+    width: 325px;
+    height: 325px;
+    background: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 1.5rem;
+    background-position: center;
+    align-items: center; 
+    justify-content: center;
+}
+    
+.img-box h1{
+    color: var( --button-text);
+    font-family: Inter;
+    text-align: center;
+    padding-top: 250px;
+    color: #FFF;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background-position: center;
+    align-items: center; 
+    justify-content: center;
+    }
+
+.bengali {
+    background-image: url(../../images/bengali.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    }
+    
+.norveg-erdei{
+    background-image: url(../../images/norveg\ macska.jpg);
+    background-position: center;    
+}
+    
+.main-coon{
+    background-image: url(../../images/main\ coon.jpg);
+    }
+    
+.meg-ez-a-cica{
+    background-image: url(../../images/meg\ ez\ a\ cica.jpg);
+    }
+    
+.hero{
+    background-image: url(../../images/hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    background-position: center;
+    }
+    
+.hero-box{
+    box-sizing: border-box;
+    object-fit: fill;
+    width: 377px;
+    height: 778px;
+    flex-shrink: 0;
+    max-width: 377px; /* Változtasd meg szükség szerint */
+    margin: 0 auto; /* Középre igazítás */
+    }
+
+
+    

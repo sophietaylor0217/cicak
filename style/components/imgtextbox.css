@@ -1,0 +1,27 @@
+.img-text-box{
+    background-color: var(--button-text);
+    width: 325px;
+    border-radius: 1.5rem;
+    padding: 1rem;
+}
+
+.img-text-box h1{
+
+}
+
+.img-text-box img{
+    /* object-fit: cover;
+    width: 125px; */
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+    
+}
+
+.img-text-box h1, .img-text-box p{
+    font-family: Inter;
+}
+
+.img-text-box .primary{
+    width:200px;
+}

@@ -1,0 +1,61 @@
+@import url(fonts.css);
+@import url(variables.css);
+@import url(components/buttons.css);
+@import url(components/inputs.css);
+@import url(components/section.css);
+@import url(components/imgbox.css);
+@import url(components/imgtextbox.css);
+
+html{
+    width: 100%; 
+    background-color: #FFF;
+}
+body{
+    width: 377px;
+    align-items: center;
+    margin: 0 auto; 
+}
+h1{
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    align-items: center;
+    
+    margin: 0 auto; 
+}
+h2{
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+    align-items: center;
+}
+
+p{
+    color: #FFFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+    align-self: stretch;
+    align-items: center;
+    
+}
+li, ul{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+    align-items: center;
+}

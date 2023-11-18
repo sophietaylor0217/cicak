@@ -1,0 +1,11 @@
+:root {
+    
+  /* Background */
+  --button-bg: #cb7006;
+  --secondary-bg: rgba(255, 255, 255, 0.2);
+
+  /* Text Color */
+  --button-text: #fff;
+  --hover-text: #000;
+  
+}
